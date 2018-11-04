@@ -1,9 +1,6 @@
 # matcond
 Concept map of a Condensed Matter course, in Italian
-
-Should this evolev in a sort of course wiki?
-
-Should be written in rst. A copy of the plan from Pmwiki/dispense below
+Written in rst. A copy of the tentative plan from Pmwiki/dispense below
 
 The course is offered in Parma University, at Graduate level. It provides the foundations for the hard condensed matter syllabus and is recommended also for the soft matter syllabus. It does not cover topics dealt with in  *Semiconductor Physics and Applications*, *Statistical Physics* and *Magnetism and Quantum Computation*. Therefore the present course contains four general chapters (Crystal Symmetries, Band Theory, Order and Excitations and Hands-on DFT), but focuses on two 
 topics (Metals and Metal-Insulator transitions, Superfluids and Superconductors).
