@@ -5,21 +5,18 @@ Should this evolev in a sort of course wiki?
 
 Should be written in rst. A copy of the plan from Pmwiki/dispense below
 
-This course is part of the Parma condensed matter master suite of courses, with two specialisations and two subtopics each:  ''crystalline'' (I. magnets and superconductors, II. semiconductors) and ''soft'' matter (I. biophysics, II. other soft structures). The course provides the foundations for the crystalline condensed matter syllabus and is recommended also for the ''soft'' specialisation. Since there is a separate ''Semiconductor Physics and Applications'' course, these special topics are avoided in the present course. Magnetism is also partially covered by ''Statistical Physics'' and ''Magnetism and Quantum Computation''. Therefore the present course contains four general chapters (Crystal Symmetries, Band Theory, Order and Excitations and Hands-on DFT), but focuses on two 
+The course is offered in Parma University, at Graduate level. It provides the foundations for the hard condensed matter syllabus and is recommended also for the soft matter syllabus. It does not cover topics dealt with in  *Semiconductor Physics and Applications*, *Statistical Physics* and *Magnetism and Quantum Computation*. Therefore the present course contains four general chapters (Crystal Symmetries, Band Theory, Order and Excitations and Hands-on DFT), but focuses on two 
 topics (Metals and Metal-Insulator transitions, Superfluids and Superconductors).
 
-The approach includes general surveys of phenomena and properties, the main models and conceptual ideas, simple-case exercises, hands-on with software and web applications, illustration of main experimental techniques to measure the properties.
+This course is work in progress. 
 
-This course and the wiki are a work in progress. A very first draft is described [[CondensedMatter.CondensedMatter|here]]
-This is a [[CondensedMatter.Template|page template]] for internal use.
-
-Main textbooks:
+**Main textbooks**
 * U. Rössler  Solid State Theory, An Introduction. Springer Verlag (with physical intuition, good overview; with problems and solutions)
 * J.F. Annett  Superconductivity, Superfluids and Condensates. Oxford Master Series (with physical intuition, specific for VI; with exercises and solutions)
 * G. Grosso G Parravicini Solid State Physics. Academic Press (more formal, oriented towards semiconductors, good for II. and V.;  with a few solved exercises)
 * D. Khomskii Basic Aspects of the Quantum Theory of Solids, Order and Elementary Excitations. Cambridge Press  (mixes physical intuition and a consistent theoretical approach, oriented towards strongly correlated materials, good for IV.)
 
-'''Tentative Lecture List''' (the number.Ch refers to the main textbook inspiration):
+**Tentative Lecture List** (the number.Ch refers to the main textbook inspiration):
 
 1. Introduction, the viewpoint of this course. Recap on crystals (4 hours 1.Ch1).
 
